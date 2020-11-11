@@ -1,3 +1,4 @@
+![](banner.gif)
 ### Hi there 👋
 
 Good to see you! My name is Sergio Estrella, also known into the internet as Djkde 😄
