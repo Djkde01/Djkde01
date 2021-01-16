@@ -25,6 +25,7 @@ Also, I'm a student at Platzi, belonging to the [Platzi Master Program](https://
 - [Twitter](https://twitter.com/djkde)
 - [LinkedIn](https://linkedin.com/in/djkde)
 - [Mail me](mailto:me@djkde.com)
+- [My portfolio](https://djkde.com)
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Djkde01&show_icons=true&theme=radical)](https://github.com/Djkde01/github-readme-stats)
