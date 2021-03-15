@@ -10,16 +10,17 @@ Also, I'm a student at Platzi, belonging to the [Platzi Master Program](https://
 ### 🚀 My Stack
 - Vanilla JavaScript
 - React.js
-- CSS (Both Pure and using SASS)
+- CSS (Pure and using SASS or Tailwind)
 - Figma
-- Photoshop
+- Next.js
 
 ### 📚 I am currently learning
-- Advanced React.js
-- Node.js 
+- Advanced React.js 
+- Jest
 - UI Design
 - Algorithms
-- MongoDB
+- SQL
+- GraphQL
 
 ### 📬 You can contact me on
 - [Twitter](https://twitter.com/djkde)
