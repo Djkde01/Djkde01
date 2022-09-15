@@ -3,9 +3,9 @@
 
 Good to see you! My name is Sergio Estrella, also known into the internet as Djkde 😄
 
-I'm a Web Developer with notions of UI Design, proficient using the MERN (MongoDB, Express, React, Node) stack, with the ability to propose design solutions (wireframes or prototypes) grounded in theory and understanding, and develop them using the latest web technologies and best practices. Also, I love to learn about Product Design and audiovisual production. 
+I'm Web Developer proficient using the MERN stack, active member of several communities, with the ability to propose design solutions (wireframes or prototypes) grounded in theory and understanding, and develop them using the latest web technologies and best practices 
 
-Currently, I'm a Web UI Developer at Globant and I'm a student at Platzi, having belonged to the [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/).
+Currently, I'm focused in usabilty and performance, also I'm a student at Platzi, having belonged to the [Platzi Master Program](https://platzi.com/blog/que-es-platzi-master/).
 
 <h3 align="left">🚀 My Stack</h3>
 <p align="center"> 
