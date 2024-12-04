@@ -1,13 +1,18 @@
-![](banner.gif)
-### Hi there 👋
+# Hi there! I'm Sergio 🌟
 
 Good to see you! My name is Sergio Estrella, also known on the internet as Djkde 😄
 
-I'm just a Web Developer eternal student, teacher, speaker, and mentor. I'll always have the mission to improve people's lives through technology.
+I'm a Web Developer eternal student, teacher, speaker, and mentor. All of this is with the mission of improving people's lives through technology.
 
-Currently, I'm working at [Selaski](https://selaski.com), making foreign commerce easier and cheaper. Also, I'm a mentor & leader at [Backbone](https://github.com/Backbone-UTP), a research hotbed in the field of Open Source, with the mission of promoting the use of open-source technologies in the academy.
+I'm working at [Selaski](https://selaski.com), making foreign commerce easier and cheaper. Also, I'm a mentor & leader at [Backbone](https://github.com/Backbone-UTP), an Open Source community, with the mission of promoting open-source technologies in the academy and social appropriation of knowledge.
 
-<h3 align="left">🚀 My Stack</h3>
+
+## About Backbone 🦒
+We are a community that believes in the freedom of knowledge and the power of open collaboration. Our community is made up of technology enthusiasts, researchers, and developers working together to create and share Open Source solutions. <br> <a href="https://github.com/Backbone-UTP">Check our GitHub community</a>
+
+
+## 🚀 My Stack</h3>
+### Front-end
 <p align="center"> 
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -17,8 +22,10 @@ Currently, I'm working at [Selaski](https://selaski.com), making foreign commerc
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-  <br/>
-  <br/>
+</p>
+
+### Back-end
+<p align="center"> 
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
@@ -26,19 +33,24 @@ Currently, I'm working at [Selaski](https://selaski.com), making foreign commerc
   <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />&nbsp;&nbsp;
+</p>
 
-  <br/>
-  <br/>
+### Docs / Testing
+<p align="center"> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />&nbsp;&nbsp;
-  <br/>
-  <br/>
+</p>
+
+### Version Control
+<p align="center"> 
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
-  <br/>
-  <br/>
+</p>
+
+### Databases
+<p align="center"> 
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
@@ -47,11 +59,11 @@ Currently, I'm working at [Selaski](https://selaski.com), making foreign commerc
 </p>
 
 
-### 📚 I am currently learning
+## 📚 I am currently learning
 - Advanced Node.js
 - Computer Science
 
-### 📬 You can contact me on
+## 📬 You can contact me on
 <p align='center'>
   <a href="https://twitter.com/djkde"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/djkde"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +72,8 @@ Currently, I'm working at [Selaski](https://selaski.com), making foreign commerc
   <a href="https://medium.com/@djkde"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Djkde01&theme=blue-green)](https://github.com/Djkde01/github-readme-stats)
+![Djkde GitHub stats](https://github-readme-stats.vercel.app/api?username=Djkde01&theme=transparent&hide_border=true)<br/>
+![Djkde GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Djkde01&theme=transparent&hide_border=true)<br/>
 
 <h4 align="center">You're the visitor :eyes:</h4>
 
