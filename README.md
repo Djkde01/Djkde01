@@ -4,14 +4,14 @@ Good to see you! My name is Sergio Estrella, also known on the internet as Djkde
 
 I'm a Web Developer eternal student, teacher, speaker, and mentor. All of this is with the mission of improving people's lives through technology.
 
-I'm working at [Selaski](https://selaski.com), making foreign commerce easier and cheaper. Also, I'm a mentor & leader at [Backbone](https://github.com/Backbone-UTP), an Open Source community, with the mission of promoting open-source technologies in the academy and social appropriation of knowledge.
+I'm working at [Selaski](https://selaski.com), making foreign commerce easier and cheaper. I'm also a mentor and leader at [Backbone](https://github.com/Backbone-UTP), an Open Source community that promotes open-source technologies in the academy and social appropriation of knowledge.
 
 
 ## About Backbone 🦒
-We are a community that believes in the freedom of knowledge and the power of open collaboration. Our community is made up of technology enthusiasts, researchers, and developers working together to create and share Open Source solutions. <br> <a href="https://github.com/Backbone-UTP">Check our GitHub community</a>
+We are a community that believes in the freedom of knowledge and the power of open collaboration. Our community comprises technology enthusiasts, researchers, and developers working to create and share Open Source solutions. <br> <a href="https://github.com/Backbone-UTP">Check our GitHub community</a>
 
 
-## 🚀 My Stack</h3>
+## My Stack 🚀 
 ### Front-end
 <p align="center"> 
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -59,11 +59,40 @@ We are a community that believes in the freedom of knowledge and the power of op
 </p>
 
 
-## 📚 I am currently learning
-- Advanced Node.js
-- Computer Science
+## My Top Projects 👨🏻‍💻
 
-## 📬 You can contact me on
++ **Sirius** as **Frontend & Designer**
+    + <a href="https://github.com/SiriusTeam7/sirius-front" target="_blank"><strong>Frontend</strong> Repository</a>
+    + <a href="https://github.com/SiriusTeam7/sirius-back" target="_blank"><strong>Backend</strong> Repository</a>
+    + <a href="https://aprendeconsirius.com/" target="_blank"><strong>Demo</strong></a>
+    + <strong>Technologies:</strong> React | Typescript | Vite | TailwindCSS | Cloudflare Pages 
+    + <strong>Description:</strong> 1st place [Platzi Hackathon 2024](https://youtu.be/iM52_SJJx5s?si=neXdBD9pVdSrXN5Q) winner project. Apply your knowledge with Active Recall.
+
+</br>
+
++ **Backbone UTP** as **Leader & Mentor**
+    + <a href="https://github.com/Backbone-UTP" target="_blank"><strong>GitHub Community</strong></a>
+    + <a href="https://backboneutp.com/" target="_blank"><strong>Main page</strong></a>
+    + <strong>Technologies:</strong> Angular | Typescript | TailwindCSS | Cloudflare Pages 
+    + <strong>Description:</strong> Community of the Universidad Tecnológica de Pereira (UTP) with information about events, workshops, and talks.
+
+</br>
+
++ **Selaski Tracking System** as **Frontend & Backend**
+    + <a href="https://welcome.selaski.com/tracking/" target="_blank"><strong>Project</strong></a>
+    + <strong>Technologies:</strong> Angular | Sockets | Nestjs | TailwindCSS | MySQL
+    + <strong>Description:</strong> Tracking system for maritime and air shipments, with interactive maps and real-time notifications.
+ 
+</br>
+
++ **Astro Portfolio** as **Backend & Frontend**
+    + <a href="https://github.com/Djkde01/astro-blog" target="_blank"><strong>Repository</strong></a>
+    + <a href="https://sergioestrella.com/" target="_blank"><strong>Project</strong></a>
+    + <strong>Technologies:</strong> Astro | CSS | HTML | Javascript | Cloudflare Pages
+    + <strong>Description:</strong> My own page! A portfolio with a blog where I share my knowledge and experiences.
+
+***
+## You can contact me on 📬 
 <p align='center'>
   <a href="https://twitter.com/djkde"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/djkde"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
