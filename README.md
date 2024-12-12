@@ -6,6 +6,12 @@ I'm a Web Developer eternal student, teacher, speaker, and mentor. All of this i
 
 I'm working at [Selaski](https://selaski.com), making foreign commerce easier and cheaper. I'm also a mentor and leader at [Backbone](https://github.com/Backbone-UTP), an Open Source community that promotes open-source technologies in the academy and social appropriation of knowledge.
 
+<p align='center'>
+  <a href="https://twitter.com/djkde"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/djkde"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:djkde.co@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sergioestrella.com"><img src="https://img.shields.io/badge/Portfolio-CA4245?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZD0iTTE1IDYuNWMtLjU1MiAwLTEtLjQ0OC0xLTFWNGgtNHYxLjVjMCAuNTUyLS40NDggMS0xIDFzLTEtLjQ0OC0xLTFWNGMwLTEuMTAzLjg5Ny0yIDItMmg0YzEuMTAzIDAgMiAuODk3IDIgMnYxLjVjMCAuNTUyLS40NDggMS0xIDF6TTEyLjcxIDE1LjM4Yy0uMTguMDctLjQ0LjEyLS43MS4xMnMtLjUzLS4wNS0uNzctLjE0TDAgMTEuNjJ2Ny42M0MwIDIwLjc3IDEuMjMgMjIgMi43NSAyMmgxOC41YzEuNTIgMCAyLjc1LTEuMjMgMi43NS0yLjc1di03LjYzeiIgZmlsbD0iI2ZmZiIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIvPjxwYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZD0iTTI0IDcuNzV2Mi4yOWwtMTEuNzYgMy45MmMtLjA4LjAzLS4xNi4wNC0uMjQuMDRzLS4xNi0uMDEtLjI0LS4wNEwwIDEwLjA0VjcuNzVDMCA2LjIzIDEuMjMgNSAyLjc1IDVoMTguNUMyMi43NyA1IDI0IDYuMjMgMjQgNy43NXoiIGZpbGw9IiNmZmYiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiLz48L3N2Zz4=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## About Backbone 🦒
 We are a community that believes in the freedom of knowledge and the power of open collaboration. Our community comprises technology enthusiasts, researchers, and developers working to create and share Open Source solutions. <br> <a href="https://github.com/Backbone-UTP">Check our GitHub community</a>
@@ -92,13 +98,6 @@ We are a community that believes in the freedom of knowledge and the power of op
     + <strong>Description:</strong> My own page! A portfolio with a blog where I share my knowledge and experiences.
 
 ***
-## You can contact me on 📬 
-<p align='center'>
-  <a href="https://twitter.com/djkde"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/djkde"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:djkde.co@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sergioestrella.com"><img src="https://img.shields.io/badge/Portfolio-CA4245?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZD0iTTE1IDYuNWMtLjU1MiAwLTEtLjQ0OC0xLTFWNGgtNHYxLjVjMCAuNTUyLS40NDggMS0xIDFzLTEtLjQ0OC0xLTFWNGMwLTEuMTAzLjg5Ny0yIDItMmg0YzEuMTAzIDAgMiAuODk3IDIgMnYxLjVjMCAuNTUyLS40NDggMS0xIDF6TTEyLjcxIDE1LjM4Yy0uMTguMDctLjQ0LjEyLS43MS4xMnMtLjUzLS4wNS0uNzctLjE0TDAgMTEuNjJ2Ny42M0MwIDIwLjc3IDEuMjMgMjIgMi43NSAyMmgxOC41YzEuNTIgMCAyLjc1LTEuMjMgMi43NS0yLjc1di03LjYzeiIgZmlsbD0iI2ZmZiIgZGF0YS1vcmlnaW5hbD0iIzAwMDAwMCIvPjxwYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZD0iTTI0IDcuNzV2Mi4yOWwtMTEuNzYgMy45MmMtLjA4LjAzLS4xNi4wNC0uMjQuMDRzLS4xNi0uMDEtLjI0LS4wNEwwIDEwLjA0VjcuNzVDMCA2LjIzIDEuMjMgNSAyLjc1IDVoMTguNUMyMi43NyA1IDI0IDYuMjMgMjQgNy43NXoiIGZpbGw9IiNmZmYiIGRhdGEtb3JpZ2luYWw9IiMwMDAwMDAiLz48L3N2Zz4=" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 ![Djkde GitHub stats](https://github-readme-stats.vercel.app/api?username=Djkde01&theme=transparent&hide_border=true)<br/>
 ![Djkde GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Djkde01&theme=transparent&hide_border=true)<br/>
